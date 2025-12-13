@@ -1,0 +1,13 @@
+# C/C++ Dependency Analyzer Requirements
+#
+# Python version: 3.6.3+
+#
+# No external dependencies required.
+# All modules are from Python standard library:
+#   - argparse
+#   - json
+#   - os
+#   - re
+#   - sys
+#   - collections
+#   - datetime
